@@ -15,6 +15,8 @@ public class Main {
         int n=12;
         test(18);
         System.out.println("Valor de n Global = " + n);
+        System.out.println("Esta es una nueva modificación al código para probar entonces");
+        System.out.println("Mas cambios");
 
     }
     static void  test ( int n){
